@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi I'm Colm. I'm a junior majoring in computer science at the University of Oregon. Focused in the front end of web development. I play and watch basketball, soccer, and most other sports. I'm from the east coast, and on the west in Oregon for school. Interested in working on either coast.
+I'm a junior majoring in computer science at the University of Oregon. Focused in the front end of web development. I play and watch basketball, soccer, and most other sports. I'm from the east coast, and currently on the west in Oregon for school. I would happily work on either coast.
 
 ---
 
