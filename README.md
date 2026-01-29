@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi I'm Colm. Currently I am a junior at the University of Oregon, majoring in computer science. Focused in the front end of web development. i love playing and watching basketball, soccer, and most other sports. I'm from the east coast, and on the west in Oregon for school. Interested in working on either coast.
+
+---
+
+# Tech Stack 
+
+Java, C, C++, Python, Javascript, Html, Scheme, R, Assembly, Docker, AJAX, Flask, Git
+
+---
+
