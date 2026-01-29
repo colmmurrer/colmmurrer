@@ -14,7 +14,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi I'm Colm. I'm currently majoring in computer science as a junior at the University of Oregon. Focused in the front end of web development. i love playing and watching basketball, soccer, and most other sports. I'm from the east coast, and on the west in Oregon for school. Interested in working on either coast.
+Hi I'm Colm. I'm currently majoring in computer science as a junior at the University of Oregon. Focused in the front end of web development. I play and watch basketball, soccer, and most other sports. I'm from the east coast, and on the west in Oregon for school. Interested in working on either coast.
+
+---
+
+# Job interests
+
+- Currently searching for an internship
+- Interested in creating features that helps people use a website and enjoy it.
+- Would love working closely with sports, whether it's helping people enjoy sports from far away, creating live gamecasts, or displaying data in interesting and informative ways.
+- I’m looking to become a software engineer that works closely with the frontend of websites. Hoping to make a space unique and easy to use for people.
 
 ---
 
