@@ -22,7 +22,7 @@ I'm a junior majoring in computer science at the University of Oregon. Focused i
 
 - Currently searching for an internship
 - Interested in creating features that helps people use a website and enjoy it.
-- Would love working closely with sports, whether it's helping people enjoy sports from far away, creating live gamecasts, or displaying data in interesting and informative ways.
+- Would love working closely with sports or music, whether it's helping people enjoy sports and music from far away, creating live gamecasts, or displaying data in interesting and informative ways.
 - I’m looking to become a software engineer in a team environment working closely with the frontend of websites. Hoping to make a space unique and easy to use for people.
 
 ---
